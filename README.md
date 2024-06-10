@@ -1,3 +1,5 @@
+![Captivating Edo Woodblock Illustration](https://github.com/iamgrg/Libft/assets/80717523/a1723b20-c15d-4fce-9ff6-77dc5b1c0053)
+
 # Libft - Custom C Library
 
 ## Overview
